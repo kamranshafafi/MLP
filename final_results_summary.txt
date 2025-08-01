@@ -1,0 +1,23 @@
+
+Final Results Summary:
+
+Adam Optimizer:
+- Test Accuracy: 0.9006
+- Best Epoch: 2
+- Total Epochs: 13
+- Early Stop: Yes
+
+SGD Optimizer:
+- Test Accuracy: 0.9070
+- Best Epoch: 8
+- Total Epochs: 19
+- Early Stop: Yes
+
+Winner: SGD
+Difference: 0.0064
+
+
+Detailed Analysis:
+Adam converged at epoch 2 with 0.9006 accuracy
+SGD converged at epoch 8 with 0.9070 accuracy
+Adam showed worse generalization

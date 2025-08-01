@@ -1,0 +1,434 @@
+[
+  {
+    "hidden": "[512]",
+    "lr": 0.001,
+    "batch_size": 32,
+    "val_acc": 0.9656666666666667,
+    "test_acc": 0.9094,
+    "params": 407050
+  },
+  {
+    "hidden": "[512]",
+    "lr": 0.001,
+    "batch_size": 128,
+    "val_acc": 0.965,
+    "test_acc": 0.9012,
+    "params": 407050
+  },
+  {
+    "hidden": "[512]",
+    "lr": 0.001,
+    "batch_size": 64,
+    "val_acc": 0.9648333333333333,
+    "test_acc": 0.9055,
+    "params": 407050
+  },
+  {
+    "hidden": "[512, 256]",
+    "lr": 0.001,
+    "batch_size": 32,
+    "val_acc": 0.964,
+    "test_acc": 0.9144,
+    "params": 535818
+  },
+  {
+    "hidden": "[512, 256, 128]",
+    "lr": 0.001,
+    "batch_size": 32,
+    "val_acc": 0.9626666666666667,
+    "test_acc": 0.9138,
+    "params": 567434
+  },
+  {
+    "hidden": "[256, 128]",
+    "lr": 0.001,
+    "batch_size": 32,
+    "val_acc": 0.9625,
+    "test_acc": 0.9086,
+    "params": 235146
+  },
+  {
+    "hidden": "[512, 256, 128]",
+    "lr": 0.001,
+    "batch_size": 64,
+    "val_acc": 0.9623333333333334,
+    "test_acc": 0.8988,
+    "params": 567434
+  },
+  {
+    "hidden": "[512, 256]",
+    "lr": 0.001,
+    "batch_size": 128,
+    "val_acc": 0.962,
+    "test_acc": 0.9086,
+    "params": 535818
+  },
+  {
+    "hidden": "[512, 256, 128]",
+    "lr": 0.001,
+    "batch_size": 128,
+    "val_acc": 0.962,
+    "test_acc": 0.9085,
+    "params": 567434
+  },
+  {
+    "hidden": "[512, 256]",
+    "lr": 0.001,
+    "batch_size": 64,
+    "val_acc": 0.9618333333333333,
+    "test_acc": 0.9075,
+    "params": 535818
+  },
+  {
+    "hidden": "[256]",
+    "lr": 0.001,
+    "batch_size": 128,
+    "val_acc": 0.9608333333333333,
+    "test_acc": 0.9009,
+    "params": 203530
+  },
+  {
+    "hidden": "[256]",
+    "lr": 0.001,
+    "batch_size": 32,
+    "val_acc": 0.9586666666666667,
+    "test_acc": 0.8999,
+    "params": 203530
+  },
+  {
+    "hidden": "[256, 128]",
+    "lr": 0.001,
+    "batch_size": 64,
+    "val_acc": 0.9586666666666667,
+    "test_acc": 0.8953,
+    "params": 235146
+  },
+  {
+    "hidden": "[256, 128]",
+    "lr": 0.001,
+    "batch_size": 128,
+    "val_acc": 0.9583333333333334,
+    "test_acc": 0.9019,
+    "params": 235146
+  },
+  {
+    "hidden": "[256]",
+    "lr": 0.001,
+    "batch_size": 64,
+    "val_acc": 0.957,
+    "test_acc": 0.895,
+    "params": 203530
+  },
+  {
+    "hidden": "[128]",
+    "lr": 0.001,
+    "batch_size": 32,
+    "val_acc": 0.9536666666666667,
+    "test_acc": 0.8835,
+    "params": 101770
+  },
+  {
+    "hidden": "[128]",
+    "lr": 0.001,
+    "batch_size": 64,
+    "val_acc": 0.952,
+    "test_acc": 0.8905,
+    "params": 101770
+  },
+  {
+    "hidden": "[256]",
+    "lr": 0.01,
+    "batch_size": 128,
+    "val_acc": 0.951,
+    "test_acc": 0.8812,
+    "params": 203530
+  },
+  {
+    "hidden": "[128]",
+    "lr": 0.001,
+    "batch_size": 128,
+    "val_acc": 0.9506666666666667,
+    "test_acc": 0.8824,
+    "params": 101770
+  },
+  {
+    "hidden": "[512]",
+    "lr": 0.01,
+    "batch_size": 128,
+    "val_acc": 0.95,
+    "test_acc": 0.8817,
+    "params": 407050
+  },
+  {
+    "hidden": "[512, 256, 128]",
+    "lr": 0.01,
+    "batch_size": 128,
+    "val_acc": 0.9476666666666667,
+    "test_acc": 0.8765,
+    "params": 567434
+  },
+  {
+    "hidden": "[256, 128]",
+    "lr": 0.01,
+    "batch_size": 128,
+    "val_acc": 0.9463333333333334,
+    "test_acc": 0.8779,
+    "params": 235146
+  },
+  {
+    "hidden": "[128]",
+    "lr": 0.01,
+    "batch_size": 128,
+    "val_acc": 0.9443333333333334,
+    "test_acc": 0.8589,
+    "params": 101770
+  },
+  {
+    "hidden": "[512, 256, 128]",
+    "lr": 0.01,
+    "batch_size": 64,
+    "val_acc": 0.9443333333333334,
+    "test_acc": 0.8641,
+    "params": 567434
+  },
+  {
+    "hidden": "[512, 256]",
+    "lr": 0.01,
+    "batch_size": 64,
+    "val_acc": 0.9441666666666667,
+    "test_acc": 0.8751,
+    "params": 535818
+  },
+  {
+    "hidden": "[512, 256]",
+    "lr": 0.01,
+    "batch_size": 128,
+    "val_acc": 0.9438333333333333,
+    "test_acc": 0.874,
+    "params": 535818
+  },
+  {
+    "hidden": "[512]",
+    "lr": 0.01,
+    "batch_size": 64,
+    "val_acc": 0.9433333333333334,
+    "test_acc": 0.8657,
+    "params": 407050
+  },
+  {
+    "hidden": "[512, 256]",
+    "lr": 0.01,
+    "batch_size": 32,
+    "val_acc": 0.9383333333333334,
+    "test_acc": 0.8587,
+    "params": 535818
+  },
+  {
+    "hidden": "[256]",
+    "lr": 0.01,
+    "batch_size": 64,
+    "val_acc": 0.9375,
+    "test_acc": 0.8677,
+    "params": 203530
+  },
+  {
+    "hidden": "[512, 256, 128]",
+    "lr": 0.01,
+    "batch_size": 32,
+    "val_acc": 0.9375,
+    "test_acc": 0.8321,
+    "params": 567434
+  },
+  {
+    "hidden": "[256, 128]",
+    "lr": 0.01,
+    "batch_size": 64,
+    "val_acc": 0.9365,
+    "test_acc": 0.8627,
+    "params": 235146
+  },
+  {
+    "hidden": "[128]",
+    "lr": 0.01,
+    "batch_size": 64,
+    "val_acc": 0.935,
+    "test_acc": 0.8611,
+    "params": 101770
+  },
+  {
+    "hidden": "[256, 128]",
+    "lr": 0.01,
+    "batch_size": 32,
+    "val_acc": 0.9336666666666666,
+    "test_acc": 0.8569,
+    "params": 235146
+  },
+  {
+    "hidden": "[512]",
+    "lr": 0.01,
+    "batch_size": 32,
+    "val_acc": 0.9301666666666667,
+    "test_acc": 0.8461,
+    "params": 407050
+  },
+  {
+    "hidden": "[256]",
+    "lr": 0.01,
+    "batch_size": 32,
+    "val_acc": 0.9291666666666667,
+    "test_acc": 0.8418,
+    "params": 203530
+  },
+  {
+    "hidden": "[128]",
+    "lr": 0.01,
+    "batch_size": 32,
+    "val_acc": 0.9223333333333333,
+    "test_acc": 0.8431,
+    "params": 101770
+  },
+  {
+    "hidden": "[512]",
+    "lr": 0.1,
+    "batch_size": 128,
+    "val_acc": 0.6888333333333333,
+    "test_acc": 0.4611,
+    "params": 407050
+  },
+  {
+    "hidden": "[256]",
+    "lr": 0.1,
+    "batch_size": 128,
+    "val_acc": 0.6173333333333333,
+    "test_acc": 0.3805,
+    "params": 203530
+  },
+  {
+    "hidden": "[512]",
+    "lr": 0.1,
+    "batch_size": 64,
+    "val_acc": 0.5893333333333334,
+    "test_acc": 0.2755,
+    "params": 407050
+  },
+  {
+    "hidden": "[128]",
+    "lr": 0.1,
+    "batch_size": 128,
+    "val_acc": 0.5701666666666667,
+    "test_acc": 0.3499,
+    "params": 101770
+  },
+  {
+    "hidden": "[256]",
+    "lr": 0.1,
+    "batch_size": 64,
+    "val_acc": 0.5405,
+    "test_acc": 0.3102,
+    "params": 203530
+  },
+  {
+    "hidden": "[512]",
+    "lr": 0.1,
+    "batch_size": 32,
+    "val_acc": 0.4041666666666667,
+    "test_acc": 0.2322,
+    "params": 407050
+  },
+  {
+    "hidden": "[128]",
+    "lr": 0.1,
+    "batch_size": 64,
+    "val_acc": 0.37283333333333335,
+    "test_acc": 0.2277,
+    "params": 101770
+  },
+  {
+    "hidden": "[256, 128]",
+    "lr": 0.1,
+    "batch_size": 64,
+    "val_acc": 0.325,
+    "test_acc": 0.1629,
+    "params": 235146
+  },
+  {
+    "hidden": "[256]",
+    "lr": 0.1,
+    "batch_size": 32,
+    "val_acc": 0.31016666666666665,
+    "test_acc": 0.1908,
+    "params": 203530
+  },
+  {
+    "hidden": "[512, 256]",
+    "lr": 0.1,
+    "batch_size": 128,
+    "val_acc": 0.2885,
+    "test_acc": 0.1622,
+    "params": 535818
+  },
+  {
+    "hidden": "[128]",
+    "lr": 0.1,
+    "batch_size": 32,
+    "val_acc": 0.2768333333333333,
+    "test_acc": 0.1741,
+    "params": 101770
+  },
+  {
+    "hidden": "[512, 256, 128]",
+    "lr": 0.1,
+    "batch_size": 128,
+    "val_acc": 0.2685,
+    "test_acc": 0.1347,
+    "params": 567434
+  },
+  {
+    "hidden": "[256, 128]",
+    "lr": 0.1,
+    "batch_size": 128,
+    "val_acc": 0.23966666666666667,
+    "test_acc": 0.1585,
+    "params": 235146
+  },
+  {
+    "hidden": "[256, 128]",
+    "lr": 0.1,
+    "batch_size": 32,
+    "val_acc": 0.10016666666666667,
+    "test_acc": 0.1,
+    "params": 235146
+  },
+  {
+    "hidden": "[512, 256]",
+    "lr": 0.1,
+    "batch_size": 32,
+    "val_acc": 0.10016666666666667,
+    "test_acc": 0.1,
+    "params": 535818
+  },
+  {
+    "hidden": "[512, 256]",
+    "lr": 0.1,
+    "batch_size": 64,
+    "val_acc": 0.1,
+    "test_acc": 0.0999,
+    "params": 535818
+  },
+  {
+    "hidden": "[512, 256, 128]",
+    "lr": 0.1,
+    "batch_size": 32,
+    "val_acc": 0.1,
+    "test_acc": 0.1,
+    "params": 567434
+  },
+  {
+    "hidden": "[512, 256, 128]",
+    "lr": 0.1,
+    "batch_size": 64,
+    "val_acc": 0.1,
+    "test_acc": 0.1,
+    "params": 567434
+  }
+]
