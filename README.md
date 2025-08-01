@@ -24,7 +24,8 @@ A comprehensive study comparing optimization algorithms (Adam vs SGD) for Japane
 9. [Citation](#-citation)
 10. [References](#-references)
 11. [License](#-license)
-12. [Acknowledgments](#-acknowledgments)
+12. [Contact](#-Contact)
+
 
 ## 📊 Results Summary
 
@@ -215,8 +216,7 @@ If you use this code or methodology, please cite:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🤝 Acknowledgments
-
-- ROIS-DS Center for Open Data in the Humanities for the Kuzushiji-MNIST dataset
-- PyTorch team for the deep learning framework
-- Course instructor for project guidance
+## 🤝 Contact
+Author: Kamran Shafafi
+Email: kamranshafafi@gmail.com
+Project Link: https://github.com/kamranshafafi/MLP
