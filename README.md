@@ -203,7 +203,7 @@ If you use this code or methodology, please cite:
   author = {Kamran SHafafi},
   title = {Multi-Layer Perceptron Classification of Kuzushiji-MNIST},
   year = {2025},
-  url = {https://github.com/[username]/mlp-kuzushiji-mnist}
+  url = {https://github.com/kamranshafafi/MLP}
 }
 ```
 
